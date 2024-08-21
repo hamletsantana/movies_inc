@@ -1,0 +1,33 @@
+.seccion-botones {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+  }
+  
+  .boton-inicio,
+  .boton-favoritas,
+  .boton-mostrar-favoritas-detalles {
+    padding: 12px 24px;
+    font-size: 18px;
+    color: #fff;
+    background-color: #ff9800;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    text-align: center;
+    transition: background-color 0.3s, transform 0.3s;
+    text-decoration: none;
+  }
+  
+  .boton-inicio:hover,
+  .boton-favoritas:hover,
+  .boton-mostrar-favoritas-detalles:hover {
+    background-color: #e68900;
+    transform: scale(1.05);
+  }
+
+  .boton-inicio a {
+  text-decoration: none;
+  color: inherit; 
+}

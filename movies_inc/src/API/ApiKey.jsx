@@ -1,0 +1,3 @@
+// Store your API key in a variable
+export const API_KEY =
+  "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjNWE0YWRkMTRkOGQ4YzRkNTYxZWJmMThjYTFjMmY4YSIsIm5iZiI6MTcyNDE5MDMyOC42NzI1NjEsInN1YiI6IjY2YzUwZDdiZGM4MTA0NGVhZjVlYTFiOSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.qvXhyj0oPg1p4N3GQBBGoQd6OkLptne8h_WqgdSnf9g";

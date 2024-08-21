@@ -1,0 +1,13 @@
+
+.poster-pelicula-detalles {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto 20px auto;
+    border-radius: 8px;
+  }
+
+  .titulo-detalles {
+    text-align: center;
+    color: #ff9800;
+    margin-bottom: 100px;
+  }

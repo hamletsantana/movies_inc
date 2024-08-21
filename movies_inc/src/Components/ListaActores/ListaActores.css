@@ -1,0 +1,13 @@
+.seccion-actores {
+    margin-top: 20px;
+  }
+  
+  .lista-actores {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .lista-actores li {
+    padding: 10px 0;
+    border-bottom: 1px solid #ddd;
+  }

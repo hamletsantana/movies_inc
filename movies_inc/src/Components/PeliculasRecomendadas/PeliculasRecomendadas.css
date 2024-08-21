@@ -1,0 +1,24 @@
+.peliculas-recomendadas {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .cuadro-peliculas-recomendadas {
+    max-width: 150px;
+    text-align: center;
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .cuadro-peliculas-recomendadas img {
+    width: 100%;
+    border-radius: 8px;
+  }
+  
+  .cuadro-peliculas-recomendadas p {
+    margin-top: 10px;
+    font-size: 14px;
+  }
+  
